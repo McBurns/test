@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'Gila site interface',
+  name: 'HelloWorld',
   props: {
     msg: String
   }
